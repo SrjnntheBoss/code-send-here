@@ -1,0 +1,8 @@
+class Arena{
+    constructor(){
+        
+    }
+    scoreboard(){
+        
+    }
+}
